@@ -1,1 +1,42 @@
-Kingslanding
+Westeros
+Essos
+Sothoryos
+
+The North
+The Riverlands
+The Vale
+The Westerlands
+The Reach
+The Stormlands
+Dorne
+The Crownlands
+The Iron Islands
+Free Cities
+Slaver's Bay
+
+Beyond the Wall
+The Wall
+Winterfell
+Pyke
+Old Wyk
+Harrenhal
+Riverrun
+The Twins
+The Eyrie
+Casterly Rock
+Oldtown
+Storm's End
+Dragonstone
+King's Landing
+Sunspear
+Pentos
+Braavos
+Volantis
+Qarth
+Valaria
+Dothraki Sea
+Lhazar
+Astapor
+Yunkai
+Meereen
+
